@@ -1,2 +1,2 @@
-# Hackathon-GAG
-this is our group repositry  , with our project
+# Hackathon-RAG
+this is the project for my Hackathon.
